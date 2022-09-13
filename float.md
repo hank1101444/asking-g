@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 using namespace std;
 #include <cmath>
@@ -16,3 +17,4 @@ int main() {
     cout << d * 100;        //d will be like 27888
 	return 0;
 }
+```
